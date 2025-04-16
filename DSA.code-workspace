@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/DSA"
+		},
+		{
+			"path": "../../Documents/PYTHON"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c"
+		}
+	}
+}
